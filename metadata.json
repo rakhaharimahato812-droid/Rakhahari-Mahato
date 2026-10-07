@@ -1,0 +1,6 @@
+{
+  "name": "Mahi AI",
+  "description": "JARVIS-style friendly Bengali AI desktop assistant with real-time voice interaction, holographic HUD, and high knowledge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
